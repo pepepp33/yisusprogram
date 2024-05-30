@@ -1,0 +1,48 @@
+
+ttre{
+  background-color: aqua;
+}
+.sig span{
+    color: blueviolet;
+}
+.contenedor{
+    display: flex;
+    margin: 150px;
+}
+.ev{
+  color: aqua;
+  text-decoration: none;
+}
+.GT{
+  align-items: center;
+  color: rgb(127, 17, 17);
+}
+.brand img{
+  width: 178px;
+  height: 78px;
+}
+.brand a{
+  color: rgb(214, 220, 215);
+  font-size: 30px;
+}
+nav li{
+  display: inline-block;
+  line-height: 80px;
+  margin-left: 10px;
+}
+nav li a{
+  color: rgb(201, 60, 60);
+  font-size: 25px;
+  text-decoration: none;
+  align-items: center;
+  
+}
+nav{
+  background-color: aqua;
+}
+.tp{
+  background-color: rgb(255, 255, 255);
+}
+.sig{
+  background-color: aquamarine;
+}
